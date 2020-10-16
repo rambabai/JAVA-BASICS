@@ -1,2 +1,5 @@
 Java is used to design android apps and websites
 It is complex but useful
+// New Line error which donot read the input after nextInt. -->Remedy!!
+import java.util.Scanner;
+
